@@ -22,7 +22,7 @@ function RouterPage() {
         <Route path="/eventOrganize" element={<EventDashboard />} />
         <Route path="/smallbigbusness" element={<SmallBsnsDashboard />} />
         <Route path="/others" element={<Others />} />
-        //home applience
+
         <Route path="/plumbers" element={<Plumbers />} />
         <Route path="/carpenters" element={<Plumbers />} />
         <Route path="/drivers" element={<Plumbers />} />
